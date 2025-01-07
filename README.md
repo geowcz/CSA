@@ -1,6 +1,8 @@
 # CSA
 CSAs (Cancer Service Areas) in the USA
 
+![Alt text](https://geowcz.github.io/images/CRC_Figure3_low_res.jpg)
+
 [Introduction](https://bama365-my.sharepoint.com/:b:/g/personal/cwang94_ua_edu/Ec673TgfppNKs0NgcuN84bkBVy1mFDzmuRXHiYbV0zkKPw?e=JDleX7)
 
 [Data](https://bama365-my.sharepoint.com/:u:/g/personal/cwang94_ua_edu/EYwWTUS1UcVCsICqB2a5-80B4OQUndGOz3mgcg3WzH4K6g?e=g2oCDt)
